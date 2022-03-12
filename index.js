@@ -61,7 +61,7 @@ const automateOneUrl = async (url) => {
   let promiseIndex = 0;
   let handledPromises = [];
   for (let i = 0; i < newData.length; i++) {
-    for (let j = 0; j < 2; j++) {
+    for (let j = 0; j < 1; j++) {
       if (newData[promiseIndex] == undefined) break;
       if (
         newData[promiseIndex].type == "heading-3" ||
