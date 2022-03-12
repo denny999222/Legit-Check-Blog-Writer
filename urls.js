@@ -1,6 +1,4 @@
 const URLS = [
-  "https://legitcheck.app/guides/nike/air-max-97/fake-vs-real-nike-air-max-97-skepta/",
-  "https://legitcheck.app/guides/adidas/yeezy/450/fake-vs-real-yeezy-450/",
   "https://legitcheck.app/guides/adidas/yeezy/700/fake-vs-real-yeezy-700-mauve/",
   "https://legitcheck.app/guides/nike/dunk/real-vs-fake-heineken-dunks/",
   "https://legitcheck.app/guides/air-jordan/air-jordan-1/fake-vs-real-aj1-retro-high-og-hyper-royal/",
