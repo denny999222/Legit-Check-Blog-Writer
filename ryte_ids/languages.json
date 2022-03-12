@@ -1,0 +1,274 @@
+[
+  {
+    "_id": "60c4eb424660040013ca8a9f",
+    "isDefault": false,
+    "name": "🇦🇪 Arabic",
+    "slug": "arabic",
+    "createdAt": "2021-06-12T17:13:38.036Z",
+    "isNew": false
+  },
+  {
+    "_id": "60eddd5676319d000c81dfc5",
+    "isDefault": false,
+    "name": "🇧🇬 Bulgarian",
+    "slug": "bulgarian",
+    "createdAt": "2021-07-13T18:37:10.288Z",
+    "isNew": false
+  },
+  {
+    "_id": "607ae6531208a9000cb1141c",
+    "isDefault": false,
+    "name": "🇨🇳 Chinese (S)",
+    "slug": "chinese-simplified",
+    "createdAt": "2021-04-17T13:44:51.796Z",
+    "isNew": false
+  },
+  {
+    "_id": "60f853a39bb0df0013c6a588",
+    "isDefault": false,
+    "name": "🇹🇼 Chinese (T)",
+    "slug": "chinese-traditional",
+    "createdAt": "2021-07-21T17:04:35.626Z",
+    "isNew": false
+  },
+  {
+    "_id": "60d014e9d6e910001341493a",
+    "isDefault": false,
+    "name": "🇨🇿 Czech",
+    "slug": "czech",
+    "createdAt": "2021-06-21T04:26:17.022Z",
+    "isNew": false
+  },
+  {
+    "_id": "60c653b4bca5d4000cc679e3",
+    "isDefault": false,
+    "name": "🇩🇰 Danish",
+    "slug": "danish",
+    "createdAt": "2021-06-13T18:51:32.326Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adbdf6f8fe5000c1e6378",
+    "isDefault": false,
+    "name": "🇳🇱 Dutch",
+    "slug": "dutch",
+    "createdAt": "2021-04-17T13:00:15.980Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adac76f8fe5000c1e636d",
+    "isDefault": true,
+    "name": "🇺🇸 English",
+    "slug": "english",
+    "createdAt": "2021-04-17T12:55:35.150Z",
+    "isNew": false
+  },
+  {
+    "_id": "60ebc3e06f90af000c8b15f3",
+    "isDefault": false,
+    "name": "🇮🇷 Farsi",
+    "slug": "farsi",
+    "createdAt": "2021-07-12T04:24:00.881Z",
+    "isNew": false
+  },
+  {
+    "_id": "6159af6d56a355691567ec9d",
+    "name": "🇵🇭 Filipino",
+    "slug": "filipino",
+    "isDefault": false,
+    "createdAt": "2021-10-03T13:26:05.463Z",
+    "isNew": false
+  },
+  {
+    "_id": "60c65338bca5d4000cc679dd",
+    "isDefault": false,
+    "name": "🇫🇮 Finnish",
+    "slug": "finnish",
+    "createdAt": "2021-06-13T18:49:28.530Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adb7b6f8fe5000c1e6375",
+    "isDefault": false,
+    "name": "🇫🇷 French",
+    "slug": "french",
+    "createdAt": "2021-04-17T12:58:35.605Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adb536f8fe5000c1e6374",
+    "isDefault": false,
+    "name": "🇩🇪 German",
+    "slug": "german",
+    "createdAt": "2021-04-17T12:57:55.882Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adc966f8fe5000c1e637d",
+    "isDefault": false,
+    "name": "🇬🇷 Greek",
+    "slug": "greek",
+    "createdAt": "2021-04-17T13:03:18.678Z",
+    "isNew": false
+  },
+  {
+    "_id": "607c7c211ebe15000cbbc7b8",
+    "isDefault": false,
+    "name": "🇮🇱 Hebrew",
+    "slug": "hebrew",
+    "createdAt": "2021-04-18T18:36:17.271Z",
+    "isNew": false
+  },
+  {
+    "_id": "60ce30891d63cb0013838dfb",
+    "isDefault": false,
+    "name": "🇮🇳 Hindi",
+    "slug": "hindi",
+    "createdAt": "2021-06-19T17:59:37.287Z",
+    "isNew": false
+  },
+  {
+    "_id": "6102aa33280cab000c673c2f",
+    "isDefault": false,
+    "name": "🇭🇺 Hungarian",
+    "slug": "hungarian",
+    "createdAt": "2021-07-29T13:16:35.719Z",
+    "isNew": false
+  },
+  {
+    "_id": "6094f9b4addddd000c04c94b",
+    "isDefault": false,
+    "name": "🇮🇩 Indonesian",
+    "slug": "indonesian",
+    "createdAt": "2021-05-07T08:26:28.111Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adb996f8fe5000c1e6376",
+    "isDefault": false,
+    "name": "🇮🇹 Italian",
+    "slug": "italian",
+    "createdAt": "2021-04-17T12:59:05.429Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adc3d6f8fe5000c1e637b",
+    "isDefault": false,
+    "name": "🇯🇵 Japanese",
+    "slug": "japanese",
+    "createdAt": "2021-04-17T13:01:49.878Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adc716f8fe5000c1e637c",
+    "isDefault": false,
+    "name": "🇰🇷 Korean",
+    "slug": "korean",
+    "createdAt": "2021-04-17T13:02:41.710Z",
+    "isNew": false
+  },
+  {
+    "_id": "6198d279d3a709c29634bb26",
+    "name": "🇱🇹 Lithuanian",
+    "slug": "lithuanian",
+    "isDefault": false,
+    "createdAt": "2021-11-20T10:48:25.124Z",
+    "isNew": false
+  },
+  {
+    "_id": "60ef33e9c218d0000c2eb058",
+    "isDefault": false,
+    "name": "🇲🇾 Malay",
+    "slug": "malay",
+    "createdAt": "2021-07-14T18:58:49.437Z",
+    "isNew": false
+  },
+  {
+    "_id": "607db96c182478000c9ac2d9",
+    "isDefault": false,
+    "name": "🇳🇴 Norwegian",
+    "slug": "norwegian",
+    "createdAt": "2021-04-19T17:10:04.239Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adc056f8fe5000c1e6379",
+    "isDefault": false,
+    "name": "🇵🇱 Polish",
+    "slug": "polish",
+    "createdAt": "2021-04-17T13:00:53.237Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adbb56f8fe5000c1e6377",
+    "isDefault": false,
+    "name": "🇵🇹 Portuguese",
+    "slug": "portuguese",
+    "createdAt": "2021-04-17T12:59:33.877Z",
+    "isNew": false
+  },
+  {
+    "_id": "609fdbec6cc23d000c7c5e84",
+    "isDefault": false,
+    "name": "🇷🇴 Romanian",
+    "slug": "romanian",
+    "createdAt": "2021-05-15T14:34:20.178Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adc2f6f8fe5000c1e637a",
+    "isDefault": false,
+    "name": "🇷🇺 Russian",
+    "slug": "russian",
+    "createdAt": "2021-04-17T13:01:35.377Z",
+    "isNew": false
+  },
+  {
+    "_id": "614a2cc9c1babef3e4008d48",
+    "name": "🇸🇰 Slovak",
+    "slug": "slovak",
+    "isDefault": false,
+    "createdAt": "2021-09-21T19:04:41.265Z",
+    "isNew": false
+  },
+  {
+    "_id": "607adad66f8fe5000c1e636e",
+    "isDefault": false,
+    "name": "🇪🇸 Spanish",
+    "slug": "spanish",
+    "createdAt": "2021-04-17T12:55:50.976Z",
+    "isNew": false
+  },
+  {
+    "_id": "6081b157f580d2000c1baf2c",
+    "isDefault": false,
+    "name": "🇸🇪 Swedish",
+    "slug": "swedish",
+    "createdAt": "2021-04-22T17:24:39.515Z",
+    "isNew": false
+  },
+  {
+    "_id": "607c7bec1ebe15000cbbc7b7",
+    "isDefault": false,
+    "name": "🇹🇭 Thai",
+    "slug": "thai",
+    "createdAt": "2021-04-18T18:35:24.722Z",
+    "isNew": false
+  },
+  {
+    "_id": "60a4c3d60b2ef9000ce86d01",
+    "isDefault": false,
+    "name": "🇹🇷 Turkish",
+    "slug": "turkish",
+    "createdAt": "2021-05-19T07:52:54.039Z",
+    "isNew": false
+  },
+  {
+    "_id": "60c65522bca5d4000cc679fa",
+    "isDefault": false,
+    "name": "🇻🇳 Vietnamese",
+    "slug": "vietnamese",
+    "createdAt": "2021-06-13T18:57:38.409Z",
+    "isNew": false
+  }
+]

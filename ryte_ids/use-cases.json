@@ -1,0 +1,1047 @@
+[
+  {
+    "_id": "60a40cf5da9d76000ccc2828",
+    "name": "Blog Idea & Outline",
+    "slug": "blog-idea-outline",
+    "caption": "Generate ideas and content structure for articles",
+    "description": "The easiest way to come up with catchy blog, essay, and article topics and content structures using AI writing assistant",
+    "contextInputs": [
+      {
+        "label": "Primary keyword",
+        "placeholder": "AI writing assistant",
+        "keyLabel": "PRIMARY_KEYWORD_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 100,
+        "isRequired": true,
+        "_id": "60a40cf5da9d76000ccc2829"
+      }
+    ],
+    "image": "1626880951898.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-05-18T18:52:37.355Z",
+    "key": "blog-idea-outline",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60584cf2c2cdaa000c2a7954",
+    "name": "Blog Section Writing",
+    "slug": "blog-writing",
+    "description": "Write engaging introduction and section paragraphs for your blog",
+    "contextInputs": [
+      {
+        "label": "Section topic",
+        "placeholder": "Role of AI Writers in the Future of Copywriting",
+        "keyLabel": "SECTION_TOPIC_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 125,
+        "isRequired": true,
+        "_id": "60584cf2c2cdaa000c2a7955"
+      },
+      {
+        "label": "Section keywords",
+        "placeholder": "ai writer, blog generator, best writing software",
+        "keyLabel": "SECTION_KEYWORDS_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 125,
+        "isRequired": false,
+        "_id": "612772a98e8d7c56540a5be1"
+      }
+    ],
+    "image": "1620388926083.svg",
+    "info": "",
+    "createdAt": "2021-03-22T07:53:22.873Z",
+    "caption": "Write articles based on section topics & headlines",
+    "variants": 1,
+    "key": "blog-paragraph",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "61e0224822cc129b33031a80",
+    "name": "Brand Name",
+    "key": "brand-names",
+    "slug": "brand-name",
+    "caption": "Generate unique names for your product or brand",
+    "description": "Use AI to come up with creative, quirky, and catchy names for your brand or business.",
+    "contextInputs": [
+      {
+        "label": "Brand Description",
+        "placeholder": "An AI writing tool for auto-generating content and copies for blogs, social media, and more",
+        "keyLabel": "BRAND_DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "61e0224822cc129b33031a81"
+      }
+    ],
+    "image": "1642147569659.svg",
+    "variants": 1,
+    "info": "",
+    "isCustom": false,
+    "createdAt": "2022-01-13T12:59:52.675Z",
+    "isNew": false
+  },
+  {
+    "_id": "6062df03e20e7d000c15609b",
+    "name": "Business Idea Pitch",
+    "slug": "business-idea-pitch",
+    "description": "Write a clear and engaging startup pitch for your business ideas",
+    "contextInputs": [
+      {
+        "label": "Business idea",
+        "placeholder": "AI writing assistant for content writers and digital marketers",
+        "keyLabel": "BUSINESS_IDEA_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 150,
+        "isRequired": true,
+        "_id": "6062df03e20e7d000c15609c"
+      }
+    ],
+    "image": "1642148057551.svg",
+    "info": "",
+    "createdAt": "2021-03-30T08:19:15.825Z",
+    "caption": "Write a short pitch based on your product or business idea",
+    "variants": 2,
+    "key": "business-idea-pitch",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "61e1167527174a50fdcb55e3",
+    "name": "Business Ideas",
+    "key": "business-idea",
+    "slug": "business-ideas",
+    "caption": "Generate business ideas based on your interest & skills",
+    "description": "Find unique startup ideas & opportunities tailored to your skills & passion",
+    "contextInputs": [
+      {
+        "label": "Interest",
+        "placeholder": "Marketing SaaS",
+        "keyLabel": "INTEREST_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 50,
+        "isRequired": true,
+        "_id": "61e1167527174a50fdcb55e4"
+      },
+      {
+        "label": "Skills",
+        "placeholder": "copywriting, marketing, product development, AI",
+        "keyLabel": "SKILLS_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 75,
+        "isRequired": true,
+        "_id": "61e1167527174a50fdcb55e5"
+      }
+    ],
+    "image": "1642148045472.svg",
+    "variants": 2,
+    "info": "",
+    "isCustom": false,
+    "createdAt": "2022-01-14T06:21:41.491Z",
+    "isNew": false
+  },
+  {
+    "_id": "61e01c2d5b9c5f0d9d795319",
+    "name": "Call To Action",
+    "key": "cta",
+    "slug": "call-to-action",
+    "caption": "Generate Call To Actions for your ad, product or landing page",
+    "description": "Let AI come up with creative and high converting CTAs for your ads, posts, landing pages, and more!",
+    "contextInputs": [
+      {
+        "label": "Description",
+        "placeholder": "An AI writing assistant that helps you automatically generate content for anything - from emails & blogs to ads & social media, Rytr can create original, engaging copies for you within seconds, at a fraction of the cost.",
+        "keyLabel": "DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "61e01c2d5b9c5f0d9d79531a"
+      }
+    ],
+    "image": "1642079410999.svg",
+    "variants": 3,
+    "info": "",
+    "isCustom": false,
+    "createdAt": "2022-01-13T12:33:49.358Z",
+    "isNew": false
+  },
+  {
+    "_id": "60d19b16d63485000cab8c15",
+    "name": "Copywriting Framework: AIDA",
+    "key": "copywriting-framework-aida",
+    "slug": "copywriting-framework-aida",
+    "caption": "Generate marketing copies in AIDA format",
+    "description": "Use Rytr's AI copywriting software to generate creative & catchy copies in AIDA format for your product, service, company, or brand",
+    "contextInputs": [
+      {
+        "label": "Product or Brand Description",
+        "placeholder": "Rytr is an AI-powered writing tool that helps you create high-quality content, in just a few seconds, at a fraction of the cost",
+        "keyLabel": "PRODUCT_OR_BRAND_DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "isRequired": true,
+        "_id": "60d19b16d63485000cab8c16"
+      }
+    ],
+    "image": "1624352425331.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-06-22T08:11:02.649Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60d1ac3e548c6b000c8fce5b",
+    "name": "Copywriting Framework: PAS",
+    "key": "copywriting-framework-pas",
+    "slug": "copywriting-framework-pas",
+    "caption": "Generate marketing copies in PAS format",
+    "description": "Use Rytr's AI writing tool to create engaging and creative copies based on Problem, Agitate, and Solution copywriting framework.",
+    "contextInputs": [
+      {
+        "label": "Product or Brand Description",
+        "placeholder": "Rytr is an AI-powered writing tool that helps you create high-quality content, in just a few seconds, at a fraction of the cost",
+        "keyLabel": "PRODUCT_OR_BRAND_DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "isRequired": true,
+        "_id": "60d1ac3e548c6b000c8fce5c"
+      }
+    ],
+    "image": "1624361915466.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-06-22T09:24:14.041Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60572a629bdd4272b8fe3588",
+    "name": "Email",
+    "slug": "email",
+    "description": "Create catchy emails for marketing, sales, engagement, & more in seconds",
+    "contextInputs": [
+      {
+        "label": "Key points",
+        "placeholder": "Welcome to Rytr\nAre you enjoying the experience?\nWatch these tutorials & guides\nPlease reach out if any questions\nHave a great day!",
+        "keyLabel": "KEY_POINTS_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 250,
+        "isRequired": true,
+        "_id": "60572a629bdd4272b8fe3589"
+      }
+    ],
+    "image": "1620394292676.svg",
+    "createdAt": "2021-03-21T11:13:38.684Z",
+    "info": "",
+    "caption": "Turn a few key points into a ready to send email",
+    "variants": 2,
+    "key": "email",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60572a629bdd4272b8fe3585",
+    "name": "Facebook, Twitter, LinkedIn Ads",
+    "slug": "facebook-twitter-linkedin-ads",
+    "description": "Write creative and original advertisement copies for Facebook, Twitter, LinkedIn, and other social media channels.",
+    "contextInputs": [
+      {
+        "label": "Product name",
+        "placeholder": "Rytr",
+        "keyLabel": "PRODUCT_NAME_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 25,
+        "isRequired": true,
+        "_id": "60572a629bdd4272b8fe3586"
+      },
+      {
+        "label": "Product description",
+        "placeholder": "Rytr is an AI-powered writing tool that helps you create high-quality content, in just a few seconds, at a fraction of the cost!",
+        "keyLabel": "PRODUCT_DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "60572a629bdd4272b8fe3587"
+      }
+    ],
+    "image": "1620394374236.svg",
+    "info": "Please review and comply with <a href=\"https://facebook.com/policies/ads\" target=\"_blank\">Facebook ad terms</a>, <a href=\"https://support.google.com/adspolicy/answer/6008942?hl=en\" target=\"_blank\">Google ad terms</a>, <a href=\"https://www.linkedin.com/legal/ads-policy\" target=\"_blank\">LinkedIn ad terms</a>.",
+    "createdAt": "2021-03-21T11:13:38.328Z",
+    "caption": "Generate Ad copies for your product or brand",
+    "variants": 3,
+    "key": "ads",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "6163f3445bb5990332c018b1",
+    "name": "Google Search Ads",
+    "key": "google-search-ads",
+    "slug": "google-search-ads",
+    "caption": "Generate Google ad copies for your product",
+    "description": "Write creative and original advertisement copies for responsive Google ads",
+    "contextInputs": [
+      {
+        "label": "Product name",
+        "placeholder": "Rytr",
+        "keyLabel": "PRODUCT_NAME_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 25,
+        "isRequired": true,
+        "_id": "60572a629bdd4272b8fe3586"
+      },
+      {
+        "label": "Product description",
+        "placeholder": "Rytr is an AI-powered writing tool that helps you create high-quality content, in just a few seconds, at a fraction of the cost!",
+        "keyLabel": "PRODUCT_DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "60572a629bdd4272b8fe3587"
+      },
+      {
+        "label": "Target keyword",
+        "placeholder": "Content writing",
+        "keyLabel": "TARGET_KEYWORD_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 25,
+        "isRequired": true,
+        "_id": "6163f55a1d5d06c1e9689ed7"
+      }
+    ],
+    "image": "1620394374236.svg",
+    "variants": 3,
+    "info": "Please review and comply with <a href=\"https://support.google.com/adspolicy/answer/6008942?hl=en\" target=\"_blank\">Google ad terms</a>.",
+    "createdAt": "2021-10-11T08:27:06.573Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "6058693ccdebbb000c210588",
+    "name": "Interview Questions",
+    "slug": "interview-questions",
+    "description": "Prepare thoughtful and interesting interview questions for any job, podcast, or show",
+    "contextInputs": [
+      {
+        "label": "Interviewee bio",
+        "placeholder": "John Doe is an experienced product manager with a track record of leading many successful products at well-known startups",
+        "keyLabel": "INTERVIEWEE_BIO_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 150,
+        "isRequired": true,
+        "_id": "6058693ccdebbb000c210589"
+      },
+      {
+        "label": "Interview context",
+        "placeholder": "Interviewing a candidate for the role of senior product manager at Rytr",
+        "keyLabel": "INTERVIEW_CONTEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 150,
+        "_id": "60ba74d5c4d770000c3702a9"
+      }
+    ],
+    "image": "1620394521390.svg",
+    "info": "",
+    "createdAt": "2021-03-22T09:54:04.382Z",
+    "caption": "Generate interview questions for job roles, podcasts, & shows",
+    "variants": 1,
+    "key": "interview-questions",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60586b31cdebbb000c21058d",
+    "name": "Job Description",
+    "slug": "job-description",
+    "description": "Create engaging job descriptions for any position to attract the best candidates",
+    "contextInputs": [
+      {
+        "label": "Job role",
+        "placeholder": "Product manager",
+        "keyLabel": "JOB_ROLE_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 50,
+        "isRequired": true,
+        "_id": "60586b31cdebbb000c21058e"
+      }
+    ],
+    "image": "1620394592243.svg",
+    "info": "",
+    "createdAt": "2021-03-22T10:02:25.080Z",
+    "caption": "Write a job description based on the role",
+    "variants": 1,
+    "key": "job-description",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "605835258c0a4a000c69c962",
+    "name": "Landing Page & Website Copies",
+    "slug": "website-landing-page",
+    "description": "Generate creative and persuasive copies for sections of your landing page",
+    "contextInputs": [
+      {
+        "label": "Website name",
+        "placeholder": "Rytr",
+        "keyLabel": "WEBSITE_NAME_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 25,
+        "isRequired": true,
+        "_id": "605835258c0a4a000c69c963"
+      },
+      {
+        "label": "About website",
+        "placeholder": "AI writer that generates content instantly",
+        "keyLabel": "ABOUT_WEBSITE_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 75,
+        "_id": "60ba3e48a3e0c9000ce7fd0a"
+      },
+      {
+        "label": "Features",
+        "placeholder": "- Uses language AI and copywriting formulas to generate content\n- Supports 20+ content types and tones in 15+ languages\n- Simple and easy to use with minimal complexity\n- Fast, affordable, and works well on mobile devices",
+        "keyLabel": "FEATURES_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "_id": "60ba3e48a3e0c9000ce7fd0b"
+      }
+    ],
+    "image": "1620394666021.svg",
+    "info": "",
+    "createdAt": "2021-03-22T06:11:49.583Z",
+    "caption": "Write sections of website based on its features",
+    "variants": 1,
+    "key": "website-landing-page",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60ed7113732a5b000cf99e8e",
+    "name": "Magic Command",
+    "key": "magic-command",
+    "slug": "magic-command",
+    "caption": "Send custom text generation requests to AI",
+    "description": "Pass your request as a command and let AI do the work for you magically. Get emails, ads, posts, blogs, and more written in no time!",
+    "contextInputs": [
+      {
+        "label": "Input text",
+        "placeholder": "Write a review about Rytr's AI writing assistant mentioning its high quality of output and seamless product experience while writing blogs & other copies",
+        "keyLabel": "INPUT_TEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 250,
+        "isRequired": true,
+        "_id": "60ed7113732a5b000cf99e8f"
+      }
+    ],
+    "image": "1626175421044.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-07-13T10:55:15.682Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "6062d819be972a000c6a05a3",
+    "name": "Post & Caption Ideas",
+    "slug": "post-captions",
+    "description": "Generate engaging ideas for your Facebook, LinkedIn, and Instagram posts & captions",
+    "contextInputs": [
+      {
+        "label": "Post topic",
+        "placeholder": "Inspiring community members to share their voices and ideas openly",
+        "keyLabel": "POST_TOPIC_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 100,
+        "isRequired": true,
+        "_id": "6062d819be972a000c6a05a4"
+      }
+    ],
+    "image": "1620394822429.svg",
+    "info": "",
+    "createdAt": "2021-03-30T07:49:45.494Z",
+    "caption": "Generate ideas & intro text for your social media posts",
+    "variants": 3,
+    "key": "post-captions",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "605832f78c0a4a000c69c960",
+    "name": "Product Description",
+    "slug": "product-description",
+    "description": "Generate compelling product descriptions to increase customer engagement & conversions for your e-commerce store or website.",
+    "contextInputs": [
+      {
+        "label": "Product name",
+        "placeholder": "Rytr",
+        "keyLabel": "PRODUCT_NAME_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 25,
+        "isRequired": true,
+        "_id": "605832f78c0a4a000c69c961"
+      },
+      {
+        "label": "About product",
+        "placeholder": "Rytr is a writing tool powered by the best language AI technology. As a smart writer, it automatically generates content for many use cases like blogs, emails, ads, and more. It is fast & works well on mobile.",
+        "keyLabel": "ABOUT_PRODUCT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 250,
+        "isRequired": true,
+        "_id": "60ba0f9ea3e0c9000ce7f5e1"
+      }
+    ],
+    "image": "1620395036821.svg",
+    "info": "",
+    "createdAt": "2021-03-22T06:02:31.498Z",
+    "caption": "Write brief description for your product or feature",
+    "variants": 2,
+    "key": "product-description",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60bb65ca12ba07000cdc8f64",
+    "name": "Product Description (bullet points)",
+    "key": "product-description-bullets",
+    "slug": "product-description-bullets",
+    "caption": "Write a few bullet points for your product",
+    "description": "Generate catchy product descriptions to increase customer engagement & conversions for your e-commerce store or website.",
+    "contextInputs": [
+      {
+        "label": "Product name",
+        "placeholder": "Rytr",
+        "keyLabel": "PRODUCT_NAME_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 25,
+        "isRequired": true,
+        "_id": "60bb65ca12ba07000cdc8f65"
+      },
+      {
+        "label": "Product features",
+        "placeholder": "- best language AI technology\n- many copywriting templates & tones\n- simple, one-page app layout\n- fully mobile compatible\n- only costs a few dollars",
+        "keyLabel": "PRODUCT_FEATURES_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 250,
+        "isRequired": true,
+        "_id": "60bb65ca12ba07000cdc8f66"
+      }
+    ],
+    "image": "1622904728819.svg",
+    "variants": 2,
+    "info": "",
+    "createdAt": "2021-06-05T11:53:46.697Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60633095de064b000c8f5cc8",
+    "name": "Profile Bio",
+    "slug": "social-media-bio",
+    "description": "Write creative and engaging bios for your social media handles including LinkedIn, Instagram, Twitter, Facebook, and more!",
+    "contextInputs": [
+      {
+        "label": "About you",
+        "placeholder": "Experienced content writer and digital marketing expert with a decade-plus experience of working in startups",
+        "keyLabel": "ABOUT_YOU_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 125,
+        "isRequired": true,
+        "_id": "60633095de064b000c8f5cc9"
+      }
+    ],
+    "image": "1620395140363.svg",
+    "info": "",
+    "createdAt": "2021-03-30T14:07:17.092Z",
+    "caption": "Write introduction & about me bios for your profile",
+    "variants": 3,
+    "key": "social-media-bio",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "611e2a98045b460ef10242ce",
+    "name": "Question & Answer",
+    "key": "questions-generator",
+    "slug": "question-answer-generator",
+    "caption": "Generate questions & answers based on a brief topic description",
+    "description": "Need to come up with questions & answers for Quora, company knowledge base, and more? Try out Rytr's AI Q&A generator.",
+    "contextInputs": [
+      {
+        "label": "Topic description",
+        "placeholder": "AI Writing Assistants are now being used to help write content. Some companies use them for a specific topic or niche, while digital agencies use them to generate all kinds of content for their clients.",
+        "keyLabel": "TOPIC_DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 250,
+        "isRequired": true,
+        "_id": "611e2a98045b4643d50242cf"
+      }
+    ],
+    "image": "1629480192520.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-08-19T09:55:36.126Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "611e40d404b47fc3a2297a37",
+    "name": "Reply to Reviews & Messages",
+    "key": "reply-response-generator",
+    "slug": "reply-response-generator",
+    "caption": "Write responses for messages, reviews, emails & more",
+    "description": "Let AI write engaging & thoughtful responses to customer reviews, private messages, professional emails, testimonials & more.",
+    "contextInputs": [
+      {
+        "label": "Message",
+        "placeholder": "I am absolutely in love with Rytr. All the other AI writing apps that I have tried felt cluttered & overwhelming. Rytr, on the other hand, offers a seamless interface and generates the best quality of content. Rytr is the best AI writer, hands down!",
+        "keyLabel": "MESSAGE_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "isRequired": true,
+        "_id": "611e40d404b47f5c77297a38"
+      }
+    ],
+    "image": "1629480298194.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-08-19T11:30:28.309Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60583ac98c0a4a000c69c96f",
+    "name": "SEO Meta Description",
+    "slug": "seo-description",
+    "description": "Write SEO optimized meta description content for any page, blog, or website",
+    "contextInputs": [
+      {
+        "label": "Page meta title",
+        "placeholder": "Rytr - Best AI Writer, Content Generator & Writing Assistant",
+        "keyLabel": "PAGE_META_TITLE_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 75,
+        "isRequired": true,
+        "_id": "60583ac98c0a4a000c69c970"
+      }
+    ],
+    "image": "1620395291088.svg",
+    "info": "",
+    "createdAt": "2021-03-22T06:35:53.193Z",
+    "caption": "Generate SEO-friendly meta description for the page",
+    "variants": 3,
+    "key": "seo-description",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60583a058c0a4a000c69c96d",
+    "name": "SEO Meta Title",
+    "slug": "seo-title",
+    "description": "Write SEO optimized meta titles for your website and blog posts",
+    "contextInputs": [
+      {
+        "label": "Target keywords",
+        "placeholder": "AI writing assistant, content generator",
+        "keyLabel": "TARGET_KEYWORDS_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 50,
+        "isRequired": true,
+        "_id": "60583a058c0a4a000c69c96e"
+      }
+    ],
+    "image": "1620395299663.svg",
+    "info": "",
+    "createdAt": "2021-03-22T06:32:37.680Z",
+    "caption": "Generate SEO-friendly meta title for the page",
+    "variants": 3,
+    "key": "seo-title",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "6163fe7b1d5d06c1e9693346",
+    "name": "SMS & Notifications",
+    "key": "sms-notifications",
+    "slug": "sms-notifications",
+    "caption": "Write engaging micro-copies for SMS or app notifications",
+    "description": "Generate creative and catchy notifications for your business that brings customers back",
+    "contextInputs": [
+      {
+        "label": "Context",
+        "placeholder": "engage users who have not checked out new features of the AI assistant",
+        "keyLabel": "CONTEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "605838118c0a4a000c69c969"
+      }
+    ],
+    "image": "1633945477670.svg",
+    "variants": 3,
+    "info": "",
+    "createdAt": "2021-10-11T09:44:39.181Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60e6f4316ab0b5000c848c51",
+    "name": "Song Lyrics",
+    "key": "song-lyrics",
+    "slug": "song-lyrics",
+    "caption": "Generate short lyrics based on a song idea",
+    "description": "Write creative and original lyrics using Rytr's AI-powered song generator",
+    "contextInputs": [
+      {
+        "label": "Song idea",
+        "placeholder": "Soothing song for a couple in love",
+        "keyLabel": "SONG_IDEA_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "60e6f4316ab0b5000c848c52"
+      }
+    ],
+    "image": "1625763926572.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-07-08T12:48:49.119Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60cdad891d63cb00138240d3",
+    "name": "Story Plot",
+    "key": "story-plot",
+    "slug": "story-plot",
+    "caption": "Generate creative plot outline based on story ideas",
+    "description": "Quickly write engaging and creative fiction stories using AI",
+    "contextInputs": [
+      {
+        "label": "Story Idea",
+        "placeholder": "The time when I couldn't distinguish AI from humans",
+        "keyLabel": "STORY_IDEA_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "60cdad891d63cb00138240d4"
+      }
+    ],
+    "image": "1624101199983.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-06-19T08:40:41.422Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "605838118c0a4a000c69c968",
+    "name": "Tagline & Headline",
+    "slug": "tagline",
+    "description": "Generate creative and catchy taglines and headlines for your LinkedIn bio, product, website, blog posts, or news articles.",
+    "contextInputs": [
+      {
+        "label": "Description",
+        "placeholder": "An AI writing assistant that helps you automatically generate content for anything. Rytr can create original, engaging copies for you within seconds, at a fraction of the cost!",
+        "keyLabel": "DESCRIPTION_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 250,
+        "isRequired": true,
+        "_id": "605838118c0a4a000c69c969"
+      }
+    ],
+    "image": "1620395466076.svg",
+    "info": "",
+    "createdAt": "2021-03-22T06:24:17.103Z",
+    "caption": "Write short tagline for your product or brand",
+    "variants": 3,
+    "key": "tagline",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "607c7ae91ebe15000cbbc7af",
+    "name": "Testimonial & Review",
+    "slug": "testimonial-review-generator",
+    "description": "Quickly write candid testimonials and reviews for people and services",
+    "contextInputs": [
+      {
+        "label": "Name",
+        "placeholder": "Rytr",
+        "keyLabel": "NAME_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 25,
+        "isRequired": true,
+        "_id": "607c7ae91ebe15000cbbc7b0"
+      },
+      {
+        "label": "Review Title",
+        "placeholder": "Best AI writer and copywriting assistant in the market",
+        "keyLabel": "REVIEW_TITLE_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 150,
+        "isRequired": true,
+        "_id": "607c7ae91ebe15000cbbc7b1"
+      }
+    ],
+    "image": "1620395541790.svg",
+    "info": "",
+    "createdAt": "2021-04-18T18:31:05.893Z",
+    "caption": "Generate review for people, product, or service",
+    "variants": 2,
+    "key": "testimonial-review",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "6092917aa9c7620013304f43",
+    "name": "Text Editing: Append Content",
+    "slug": "ai-text-completer",
+    "description": "Let AI text completer finish sentences and paragraphs for you",
+    "contextInputs": [
+      {
+        "label": "Input text",
+        "placeholder": "the use of AI writing assistants in the workplace offers benefits such as",
+        "keyLabel": "INPUT_TEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "isRequired": true,
+        "_id": "6092917aa9c7620013304f44"
+      }
+    ],
+    "image": "1620395669080.svg",
+    "info": "",
+    "createdAt": "2021-05-05T12:37:14.820Z",
+    "caption": "Append a few words at the end of a given text",
+    "variants": 1,
+    "key": "text-append",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "6223abf9ea8eb61e65b4e691",
+    "name": "Text Editing: Continue Ryting",
+    "key": "text-continue-ryting",
+    "slug": "text-continue-ryting",
+    "caption": "Continue Ryting",
+    "description": "AI writing assistant to auto write the next sentences",
+    "contextInputs": [
+      {
+        "label": "Input text",
+        "placeholder": "The use of AI copywriting assistants in the workplace offers benefits to both employees and employers. Today, the vast majority of professional-level copywriters are actively looking for freelance work. Additionally, the demand for AI-powered writing has never been higher.",
+        "keyLabel": "INPUT_TEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 1000,
+        "isRequired": true,
+        "_id": "60928e45a9c7620013304f12"
+      }
+    ],
+    "image": "1646380260735.svg",
+    "variants": 1,
+    "info": "",
+    "isCustom": false,
+    "isNew": true
+  },
+  {
+    "_id": "60928e45a9c7620013304f11",
+    "name": "Text Editing: Expand Content",
+    "slug": "text-expander-and-lengthener",
+    "description": "Quickly expand and lengthen your content by adding appropriate words.",
+    "contextInputs": [
+      {
+        "label": "Input text",
+        "placeholder": "AI writing assistants are quickly becoming more common in the workplace. They save time, provide quality content, and can be used for a variety of tasks.",
+        "keyLabel": "INPUT_TEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "isRequired": true,
+        "_id": "60928e45a9c7620013304f12"
+      }
+    ],
+    "image": "1620395719991.svg",
+    "info": "",
+    "createdAt": "2021-05-05T12:23:33.330Z",
+    "caption": "Add a few words to increase length of a given text",
+    "variants": 1,
+    "key": "text-expand",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60cdd8b61d63cb001382a390",
+    "name": "Text Editing: Improve Content",
+    "key": "text-improver",
+    "slug": "grammar-checker-and-readability-improver",
+    "caption": "Correct grammar and improve the readability of text",
+    "description": "Use Rytr's AI content writing assistant to simplify your writing and make it mistake-free. Best Grammarly alternative.",
+    "contextInputs": [
+      {
+        "label": "Input text",
+        "placeholder": "Modern and AI powered writig assistants has become a quite more advanced in nature in  few years and now quick to become an integrals part of the workplace tool kit today",
+        "keyLabel": "INPUT_TEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "isRequired": true,
+        "_id": "60cdd8b61d63cb001382a391"
+      }
+    ],
+    "image": "1624121592492.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-06-19T11:44:54.136Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60b877a110f2fb000cb004eb",
+    "name": "Text Editing: Paragraph Content",
+    "key": "text-paragraph",
+    "slug": "paragraph-content",
+    "caption": "Generate a couple of sentences on any topic",
+    "description": "Use AI writer to quickly generate convincing short descriptions on any topic",
+    "contextInputs": [
+      {
+        "label": "Topic",
+        "placeholder": "AI writing assistants are helping copywriters save time and energy",
+        "keyLabel": "TOPIC_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 200,
+        "isRequired": true,
+        "_id": "60b877a110f2fb000cb004ec"
+      }
+    ],
+    "image": "1623045282963.svg",
+    "variants": 1,
+    "info": "",
+    "createdAt": "2021-06-03T06:33:05.046Z",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60928476a9c7620013304e89",
+    "name": "Text Editing: Reword Content",
+    "slug": "text-rephraser",
+    "description": "Easily rephrase any text into more engaging and catchy variations using Rytr's AI copywriting assistant",
+    "contextInputs": [
+      {
+        "label": "Input text",
+        "placeholder": "The use of AI writing assistants in the workplace is becoming more widespread and for good reason. Not only do they save time and effort, but they also provide a level of quality that is at par with human copywriters.",
+        "keyLabel": "INPUT_TEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 250,
+        "isRequired": true,
+        "_id": "60928476a9c7620013304e8a"
+      }
+    ],
+    "image": "1620395806887.svg",
+    "info": "",
+    "createdAt": "2021-05-05T11:41:42.049Z",
+    "caption": "Paraphrase a given short text",
+    "variants": 1,
+    "key": "text-rephrase",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60928752a9c7620013304ea1",
+    "name": "Text Editing: Shorten Content",
+    "slug": "text-summarizer",
+    "description": "Use AI writer to summarize and shorten your content into succinct points for better readability.",
+    "contextInputs": [
+      {
+        "label": "Input text",
+        "placeholder": "The use of AI writing assistants in the workplace is becoming more widespread and for good reason. Not only do they save time and effort in writing, but they also provide a high level of content quality that is at par with human copywriters.",
+        "keyLabel": "INPUT_TEXT_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 300,
+        "isRequired": true,
+        "_id": "60928752a9c7620013304ea2"
+      }
+    ],
+    "image": "1620395857076.svg",
+    "info": "",
+    "createdAt": "2021-05-05T11:53:54.118Z",
+    "caption": "Reduce length of a given text to make it succinct & clearer",
+    "variants": 1,
+    "key": "text-shorten",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "605856eec2cdaa000c2a7965",
+    "name": "Video Channel Description",
+    "slug": "video-channel-description",
+    "description": "Generate a catchy description for your YouTube video channel to get more subscribers",
+    "contextInputs": [
+      {
+        "label": "Channel purpose",
+        "placeholder": "Learn all about AI writing tools on this channel. We cover the what, why, and how of these tools using live demos and case studies",
+        "keyLabel": "CHANNEL_PURPOSE_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 150,
+        "isRequired": true,
+        "_id": "605856eec2cdaa000c2a7966"
+      }
+    ],
+    "image": "1620394137595.svg",
+    "info": "",
+    "createdAt": "2021-03-22T08:35:58.114Z",
+    "caption": "Write short description for your YouTube channel",
+    "variants": 2,
+    "key": "video-channel-description",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "6058536ec2cdaa000c2a795e",
+    "name": "Video Description",
+    "slug": "video-description",
+    "description": "Let AI generate an engaging description for your video to hook your subscribers and audience",
+    "contextInputs": [
+      {
+        "label": "Video title",
+        "placeholder": "How to Use AI Writers to Create High-Quality Blogs in Minutes",
+        "keyLabel": "VIDEO_TITLE_LABEL",
+        "inputType": "textarea",
+        "inputMaximumCharacters": 100,
+        "isRequired": true,
+        "_id": "6058536ec2cdaa000c2a795f"
+      }
+    ],
+    "image": "1620394174806.svg",
+    "info": "",
+    "createdAt": "2021-03-22T08:21:02.582Z",
+    "caption": "Write short description for your YouTube video",
+    "variants": 2,
+    "key": "video-description",
+    "isCustom": false,
+    "isNew": false
+  },
+  {
+    "_id": "60584ffdc2cdaa000c2a7957",
+    "name": "Video Idea",
+    "slug": "video-ideas",
+    "description": "Let AI copywriter generate creative and interesting video ideas for your YouTube channel.",
+    "contextInputs": [
+      {
+        "label": "Keywords",
+        "placeholder": "AI writing assistants",
+        "keyLabel": "KEYWORDS_LABEL",
+        "inputType": "text",
+        "inputMaximumCharacters": 50,
+        "isRequired": true,
+        "_id": "60584ffdc2cdaa000c2a7958"
+      }
+    ],
+    "image": "1620394185911.svg",
+    "info": "",
+    "createdAt": "2021-03-22T08:06:21.281Z",
+    "caption": "Generate video ideas based on keywords & topics",
+    "variants": 3,
+    "key": "video-idea",
+    "isCustom": false,
+    "isNew": false
+  }
+]
